@@ -1,3 +1,6 @@
 source code project in python with the library sqlalchemy
 before running the vendas.py project, it is necessary to create a folder called BD inside the same file package.
 After executing the vendas.py it will create the vendas.db file inside the BD folder
+
+
+It is possible use insertMassiveDataVendas.py to insert a massive data from .xlsx file. 
